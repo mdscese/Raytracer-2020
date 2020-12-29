@@ -13,4 +13,4 @@ Images
 
 ![](images/default1.png)
 
-![](images/other1.gif)
+![](images/other1.png)
