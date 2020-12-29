@@ -4,3 +4,6 @@ Two scene files are included in the scene folder though the scene creator is not
 
 This program is a raytracing engine meaning that rays are cast from the camera position in order to determine the color of pixels on the screen.
 It can render both triangles and spheres in any rgb color as well as make them reflective. As well as rendering lights with different hues.
+
+Video
+![](images/default video.gif)
