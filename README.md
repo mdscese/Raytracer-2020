@@ -6,4 +6,11 @@ This program is a raytracing engine meaning that rays are cast from the camera p
 It can render both triangles and spheres in any rgb color as well as make them reflective. As well as rendering lights with different hues.
 
 Video
+
 ![](images/video1.gif)
+
+Images
+
+![](images/default1.png)
+
+![](images/other1.gif)
